@@ -1,16 +1,16 @@
 ---
-layout: default
-title: Contact Us
+layout: null
+permalink: /contact-us
 ---
-
-## Contact Us
-
-11 Ladydell Road  
-Worthing  
-West Sussex  
-BN11 2LD  
-United Kingdom
-
-Mobile: 07791 807 088
-
-Email: <info@ambergreensafety.co.uk>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Contact Ambergreen Safety</title>
+<meta http-equiv="refresh" content="0; url=/contact.html">
+<link rel="canonical" href="https://www.ambergreensafety.co.uk/contact.html">
+</head>
+<body>
+<p>This page has moved to <a href="/contact.html">Contact Ambergreen Safety</a>.</p>
+</body>
+</html>
